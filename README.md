@@ -1,7 +1,7 @@
 WPILIFE
 =======
 
-A life service website For WPI Student   
+A life service website For WPI Student based on [CodeIgniter 2](https://codeigniter.com/) 
 http://wpilife.org    
 
 
